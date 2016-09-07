@@ -10,21 +10,21 @@ myRide.maxSpeed(); // returns 15
 ````
 -
 
-* [ ] create a method called "howFast" which prints out the current gear value and the maxSpeed
+* [ x] create a method called "howFast" which prints out the current gear value and the maxSpeed
 
 ````
 //given that myRide.gear = 3 and maxSpeed functions properly.
 myRide.howFast(); //"I am on gear 3 and I can go 45 miles per hour."
 ````
 
-* [ ] create a method called "shiftUp" which increases the gear by 1, and prints out myCar's current gear
+* [ x] create a method called "shiftUp" which increases the gear by 1, and prints out myCar's current gear
 
 ````
 //given that myRide.gear = 1;
 myRide.shiftUp(); //"Gear now at 2";
 ````
 
-* [ ] create a method called "shiftDown" which decreases the gear by 1, and prints out myCar's current gear
+* [ x] create a method called "shiftDown" which decreases the gear by 1, and prints out myCar's current gear
 
 ````
 //given that myRide.gear = 5;
