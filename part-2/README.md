@@ -32,9 +32,9 @@ var myObj = {
 ````
 ###Creating methods
 
-* [ ] Create a method "paint" that takes a string argument and assigns it to the color property 
+* [ x] Create a method "paint" that takes a string argument and assigns it to the color property 
 
-* [ ] Create a method "getVolume" that calculates and returns the volume of an object. Not sure how to calculate the volume of a box (cube)? Look it up here : http://bit.ly/2cgU690
+* [ x] Create a method "getVolume" that calculates and returns the volume of an object. Not sure how to calculate the volume of a box (cube)? Look it up here : http://bit.ly/2cgU690
 
 ###Creating Functions
 
